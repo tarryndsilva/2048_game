@@ -1,2 +1,2 @@
 # 2048_game
-The 2048 game made using python
+Created this simple yet fun 2048 game using python. The GUI was done using tkinter.
